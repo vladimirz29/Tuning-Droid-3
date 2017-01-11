@@ -1,0 +1,7 @@
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\bin\Debug\TuningDroidAPI.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\bin\Debug\TuningDroidAPI.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\bin\Debug\UpdateService.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\bin\Debug\UpdateService.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\obj\Debug\TuningDroidAPI.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\obj\Debug\TuningDroidAPI.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\TuningDroidAPI\obj\Debug\TuningDroidAPI.pdb

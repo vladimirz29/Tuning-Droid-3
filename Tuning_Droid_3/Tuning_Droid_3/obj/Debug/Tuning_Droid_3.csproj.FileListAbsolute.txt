@@ -10,3 +10,15 @@ c:\users\vladimir\documents\visual studio 2015\Projects\Tuning_Droid_3\Tuning_Dr
 C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\Tuning_Droid_3.exe.config
 C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\obj\Debug\Tuning_Droid_3.exe
 C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\obj\Debug\Tuning_Droid_3.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\Tuning_Droid_3.exe
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\Tuning_Droid_3.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\TuningDroidAPI.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\TuningDroidControls.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\UpdateService.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\TuningDroidAPI.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\TuningDroidControls.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\bin\Debug\UpdateService.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\obj\Debug\Tuning_Droid_3.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\obj\Debug\Tuning_Droid_3.Form1.resources
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\obj\Debug\Tuning_Droid_3.Properties.Resources.resources
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\Tuning_Droid_3\obj\Debug\Tuning_Droid_3.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\UpdateService\bin\Debug\UpdateService.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\UpdateService\bin\Debug\UpdateService.pdb
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\UpdateService\obj\Debug\UpdateService.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\UpdateService\obj\Debug\UpdateService.dll
+C:\Users\Vladimir\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Tuning_Droid_3\UpdateService\obj\Debug\UpdateService.pdb

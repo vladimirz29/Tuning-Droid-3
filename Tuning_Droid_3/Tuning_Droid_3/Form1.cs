@@ -7,18 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using UpdateService;
+using TuningDroidAPI;
+using TuningDroidControls;
 
 namespace Tuning_Droid_3
 {
     public partial class Form1 : Form
     {
-        public TuningDroidUpdater UpdateService;
+        TuningDroidControlsContext ControlsContext;
 
         public Form1()
         {
             InitializeComponent();
-            UpdateService = new TuningDroidUpdater();
+            ApiContext.CheckUpdates();
+            Form form = (Form)this;
+            ControlsContext = new TuningDroidControlsContext(ref form);
         }
     }
 }
