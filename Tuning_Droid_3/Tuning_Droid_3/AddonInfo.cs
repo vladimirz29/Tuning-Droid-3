@@ -10,6 +10,5 @@ namespace Tuning_Droid_3
     {
         public int AddonVersionManager = 1;
         public int MinimumAddonVersion = 1;
-        
     }
 }

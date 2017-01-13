@@ -1,5 +1,8 @@
-﻿using System;
+﻿using MetroFramework.Forms;
+using MetroFramework.Controls;
+using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -7,19 +10,32 @@ using System.Windows.Forms;
 
 namespace TuningDroidControls
 {
-    public class TuningDroidControlsContext
+    public static class TuningDroidControlsContext
     {
-        public string ControlsVersion = "1.0.0";
-        
+        public static string ControlsVersion = "1.0.0";
+        public static MetroForm MainForm;
 
-        public TuningDroidControlsContext(ref Form mainForm)
+        public static void InitializeControlsContext(ref MetroForm mainForm)
         {
-            
+            mainForm.Style = MetroFramework.MetroColorStyle.Brown;
+            MainForm = mainForm;
+            AddControl(new StartPage());
         }
 
-        public void ShowAlert(string message)
+        public static void AddControl(Control control)
         {
-            new AlertWindow(message).Show();
+            //Searching for panel1
+            var mainPanel = MainForm.Controls["panel1"];
+            mainPanel.Controls.Clear();
+            mainPanel.Controls.Add(control);
+        }
+
+        public static void ShowAlert(string message)
+        {
+            new MetroMessageBox()
+            {
+                Text=message
+            }.Show();
         }
     }
 }

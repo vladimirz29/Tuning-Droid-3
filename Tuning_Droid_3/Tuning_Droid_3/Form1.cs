@@ -9,19 +9,22 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using TuningDroidAPI;
 using TuningDroidControls;
+using MetroFramework;
+using MetroFramework.Forms;
+using MetroFramework.Controls;
 
 namespace Tuning_Droid_3
 {
-    public partial class Form1 : Form
+    public partial class Form1 : MetroForm
     {
-        TuningDroidControlsContext ControlsContext;
 
         public Form1()
         {
             InitializeComponent();
+            
             ApiContext.CheckUpdates();
-            Form form = (Form)this;
-            ControlsContext = new TuningDroidControlsContext(ref form);
+            MetroForm form = this;
+            TuningDroidControlsContext.InitializeControlsContext(ref form);
         }
     }
 }
